@@ -1,5 +1,15 @@
 PENGENALAN OOP & STUDI KASUS
 
+#Materi :
+• Pengantar
+• Class
+• Atribut
+• Method
+• This
+• Access Modifier
+• Instance of Class
+
+
 #Outphut
 run:
 Masukan Merek HP		  : Realme C2
